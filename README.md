@@ -42,7 +42,7 @@ Users simply register their **UPI ID** to generate a **unique payment key**, whi
 | Backend     | Hono (Cloudflare Workers)    |
 | Database    | D1 (Cloudflare SQLite)       |
 | ORM         | Drizzle                      |
-| Mobile App  | Custom Notification System   |
+
 
 ---
 
