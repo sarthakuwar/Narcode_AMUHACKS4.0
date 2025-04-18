@@ -27,9 +27,7 @@ Users simply register their **UPI ID** to generate a **unique payment key**, whi
 
 ---
 
-## 🔁 Workflow Diagram
 
-> 📌 _A visual diagram can help clarify how the system works. Add one here if possible._
 
 
 ---
